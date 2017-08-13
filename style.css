@@ -1,5 +1,10 @@
 /*This is Sparksammy's Super-Simple Dark Theme. */
-/* If you use this PLEASE give credit. Thanks! */
+/*Inspired by stallman.org's "Dark Mode"*/
+/* If you use this as a source PLEASE give credit. Thanks! */
+div {
+     color: white;
+     background-color: black;
+}
 body {
      color: white;
      background-color: black;

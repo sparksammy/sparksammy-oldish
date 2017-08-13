@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: yellow;
+}
+h2 {
+    color: yellow;
+}
+h3 {
+    color: yellow;
+}
+h4 {
+    color: yellow;
+}
+h5 {
+    color: yellow;
+}
+h6 {
+    color: yellow;
+}
+p {
+    color: white;
+}
+a {
+    color: lime;
+}
+pre {
+    background-color: grey;
+    color: yellow;
+}

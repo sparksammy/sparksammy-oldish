@@ -2,5 +2,9 @@
 ---
 I will put my videos below.
 ---
-Videos:
-Video archive (if you don't mind nonfree software) is also stored here.
+New videos:
+Comming soon...
+
+
+Video archive:
+https://github.com/sparksammy/sparksammy/tree/master/archived-youtube

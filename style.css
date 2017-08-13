@@ -1,17 +1,22 @@
 /*This is Sparksammy's Super-Simple Dark Theme. */
 /*Inspired by stallman.org's "Dark Mode"*/
 /* If you use this as a source PLEASE give credit. Thanks! */
-html {
+* {
      color: white;
      background-color: black;
 }
-html {
-     color: white;
+
+input {
+     color: yellow;
+     background-color: grey;
+}
+a {
+     color: yellow;
      background-color: black;
 }
-div {
-     color: white;
+img {
      background-color: black;
+     filter: brightness(50%);
 }
 td {
      color: white;
@@ -20,9 +25,6 @@ body {
      color: white;
      background-color: black;
      font-size: 125%;
-}
-a {
-     color: yellow;
 }
 
 h1 {

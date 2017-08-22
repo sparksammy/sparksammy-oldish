@@ -38,9 +38,6 @@ body {
 h1 {
      color: yellow;
 }
-video::-webkit-media-controls-start-playback-button {
-    display: none;
-}
 h2 {
      color: yellow;
 }

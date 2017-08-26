@@ -1,6 +1,9 @@
 /*This is Sparksammy's Super-Simple Dark Theme. */
 /*Inspired by stallman.org's "Dark Mode"*/
 /* If you use this as a source PLEASE give credit. Thanks! */
+.clippy-content {
+    color: black;
+}
 * {
      color: white;
      background-color: black;

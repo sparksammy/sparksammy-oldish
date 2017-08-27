@@ -9,6 +9,7 @@ server1.sparksammy.tk
 Update: Server2 Deprecated, as not needed in final build.
 
 ***8/26/17: Hurricanes, Servers, and Features***
+
 New features list:
   - In case of predicted emergency, server will be unpluged.
   - Optimized for mobile!
@@ -17,6 +18,7 @@ New features list:
   - Updated Security
     - NEW! HTTPS (Note: Breaks github site firefox.)
   - An easter egg in this post
+
 Planned features:
   - LegitBOX - Handy Binds for Legit TF2 (Legit LMAOBOX)
   - WhaleTail - A (hopefully) GNU/GPL licensed Carnival Hub Private Server.

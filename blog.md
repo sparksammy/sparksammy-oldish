@@ -22,3 +22,8 @@ New features list:
 Planned features:
   - LegitBOX - Handy Binds for Legit TF2 (Legit LMAOBOX)
   - WhaleTail - A (hopefully) GNU/GPL licensed Carnival Hub Private Server.
+
+
+
+***8/28/17: Server is down... :(***
+Server is down due to evacuation away from flooded areas. Server should be back up next Monday.

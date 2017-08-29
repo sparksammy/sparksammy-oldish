@@ -13,7 +13,7 @@ Update: Server2 Deprecated, as not needed in final build.
 New features list:
   - In case of predicted emergency, server will be unpluged.
   - Optimized for mobile!
-  - Half Life 2 Server on server1.sparksammy.tk
+  - Team Fortress 2 Server on server1.sparksammy.tk
   - ROFLCRAFT is now on server1.sparksammy.tk
   - Updated Security
     - NEW! HTTPS (Note: Breaks github site firefox.)

@@ -1,4 +1,19 @@
 <script>
-var b = document.createElement("img");
-b.src = "https://sparksammy.tk/blog.md";
+  var HttpClient = function() {
+    this.get = function(aUrl, aCallback) {
+        var anHttpRequest = new XMLHttpRequest();
+        anHttpRequest.onreadystatechange = function() { 
+            if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
+                aCallback(anHttpRequest.responseText);
+        }
+
+        anHttpRequest.open( "GET", aUrl, true );            
+        anHttpRequest.send( null );
+    }
+}
+  
+var client = new HttpClient();
+client.get('https://sparksammy.tk/blog.md', function(response) {
+    document.write(response);
+});
 </script>

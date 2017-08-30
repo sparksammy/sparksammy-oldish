@@ -6,6 +6,7 @@
 }
 .clippy-content {
     color: black;
+    background-color: tan;
 }
 * {
      color: white;
@@ -26,18 +27,16 @@ pre {
 }
 a {
      color: yellow;
-     background-color: black;
 }
 img {
-     background-color: black;
-     filter: brightness(50%);
+     filter: brightness(75%);
 }
 td {
      color: white;
 }
 body {
      color: white;
-     background-color: black;
+     background-color: #ff0;
      font-size: 125%;
 }
 

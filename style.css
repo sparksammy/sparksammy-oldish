@@ -2,7 +2,7 @@
 /*Inspired by stallman.org's "Dark Mode"*/
 /* If you use this as a source PLEASE give credit. Thanks! */
 .logo {
-    filter: brightness(50%);
+    filter: brightness(150%);
 }
 .clippy-content {
     color: black;

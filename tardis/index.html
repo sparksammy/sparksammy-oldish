@@ -1,0 +1,16 @@
+//making new copy of game
+
+var botsCount = 0
+var isBot = true;
+for (i = 0; i < botsCount; i++) {
+    //make pause
+    setTimeout(function(){
+        game(window, r, isBot, botsUrl, M);
+    }, 500);
+}
+
+//We don't give these copies to draw on the screen
+function paint() {
+    if(bot) return;
+    //...
+}

@@ -1,0 +1,15 @@
+//Custom 400 errors
+ErrorDocument 400 http://sparksammy.tk/ball.gif
+
+//Custom 401 errors
+ErrorDocument 401 http://sparksammy.tk/ball.gif
+
+//Custom 403 errors
+ErrorDocument 403 http://sparksammy.tk/ball.gif
+
+//Custom 404 errors
+ErrorDocument 404 http://sparksammy.tk/ball.gif
+
+//Custom 500 errors
+ErrorDocument 500 http://sparksammy.tk/ball.gif
+ 
